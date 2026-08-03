@@ -1,4 +1,5 @@
-    import os
+
+import os
 import json
 import logging
 import requests
@@ -129,3 +130,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
